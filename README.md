@@ -1,7 +1,7 @@
 # **The EEH-Casimir Wormhole Device**
 _A speculative engineering guide to building a traversable wormhole time machine based on Einstein–Euler-Heisenberg gravity_
 
-[![t-worm-hole](t-worm-hole.png)]
+[t-worm-hole](t-worm-hole.png)
 
 > **DISCLAIMER**  
 > This document is a **theoretical exercise only**. Every component described below exceeds present-day materials science, energy production, and control technology by many orders of magnitude. The purpose is to translate the mathematical requirements derived in Channuie *et al.*, **“Traversable Wormholes in Einstein–Euler-Heisenberg Gravity”** (2025) into a single, self-consistent engineering narrative so researchers can identify where the true roadblocks lie.  
